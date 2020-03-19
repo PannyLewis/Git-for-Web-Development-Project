@@ -21,13 +21,13 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
 
 ## Part Two:
 
-1. fork this codepen https://codepen.io/BritHemming/pen/eYYEoPa?editors=1100
-2. You will be marking up all of the HTML and styling it to look like this: https://codepen.io/BritHemming/full/jONmxOm using CSS
+x1. fork this codepen https://codepen.io/BritHemming/pen/eYYEoPa?editors=1100
+x2. You will be marking up all of the HTML and styling it to look like this: https://codepen.io/BritHemming/full/jONmxOm using CSS
 
 - this should be review from yesterday/ extra practice
 
-3. After you are finished please copy the review questions into your .txt file and answer them
-4. don't forget to add, commit and push your changes.
+x3. After you are finished please copy the review questions into your .txt file and answer them
+x4. don't forget to add, commit and push your changes.
 
 ## Stretch
 
